@@ -7,7 +7,9 @@
 <!-- http://wbwip.com/wbw/emailencoder.html -->
 <!-- https://codepen.io/jaymaymo/pen/OgoBYM -->
 
-**MORE:** My _curriculum vitae_ may be found at [https://www.linkedin.com/in/mickeysattler/](https://www.linkedin.com/in/mickeysattler/) and I may be contacted at <a href="mailto:&#109;&#115;&#115;&#064;&#115;&#097;&#116;&#116;&#108;&#101;&#114;&#115;&#046;&#111;&#114;&#103;">&#109;&#115;&#115;&#064;&#115;&#097;&#116;&#116;&#108;&#101;&#114;&#115;&#046;&#111;&#114;&#103;</a>.
+**MORE:** My [short](https://github.com/mickeys/cv/blob/main/cv.md) and [exhaustive](https://www.linkedin.com/in/mickeysattler/) _curriculum vitae_
+
+**EMAIL:** <a href="mailto:&#109;&#115;&#115;&#064;&#115;&#097;&#116;&#116;&#108;&#101;&#114;&#115;&#046;&#111;&#114;&#103;">&#109;&#115;&#115;&#064;&#115;&#097;&#116;&#116;&#108;&#101;&#114;&#115;&#046;&#111;&#114;&#103;</a>
 
 ## Topics hidden by NDA
 
