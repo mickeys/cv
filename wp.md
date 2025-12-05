@@ -1,15 +1,17 @@
-# Mickey Sattler — A Technical Writing Portfolio
+| Michael “Mickey” Sattler |
+| :---: |
+| Team Lead &diams; Technical Writer &diams; Software & Quality Assurance Engineer |
+| <a href="mailto:&#109;&#115;&#115;&#064;&#115;&#097;&#116;&#116;&#108;&#101;&#114;&#115;&#046;&#111;&#114;&#103;">&#109;&#115;&#115;&#064;&#115;&#097;&#116;&#116;&#108;&#101;&#114;&#115;&#046;&#111;&#114;&#103;</a> &diams; [linkedin.com/in/mickeysattler](https://linkedin.com/in/mickeysattler) &diams; [github.com/mickeys](https://github.com/mickeys) &diams; [+1.415.867.5353](tel://+14158675353) |
+
+<!-- Email obfuscation: http://wbwip.com/wbw/emailencoder.html & https://codepen.io/jaymaymo/pen/OgoBYM -->
+
+# Technical Writing Portfolio
 
 **INTRODUCTION:** I'm a long-time software and quality assurance engineer who's had primary responsibility for producing both internal and public-facing technical documentation throughout my entire career. From API references, sample code, and "Hello, World" demonstration apps, to white papers and online articles, the joy of explaining technical concepts and processes has been my privilege.
 
-**NON-DISCLOSURES AND ENCUMBERED WRITING:** Much of what I'm paid to write becomes proprietary information as soon as it leaves my hands (and is therefore unavailable for sharing here). What follows are NDA-unencumbered exceptions, a real-world "portfolio" of sorts.
-
-<!-- http://wbwip.com/wbw/emailencoder.html -->
-<!-- https://codepen.io/jaymaymo/pen/OgoBYM -->
-
 **MORE:** My [short](https://github.com/mickeys/cv/blob/main/cv.md) and [exhaustive](https://www.linkedin.com/in/mickeysattler/) _curriculum vitae_
 
-**EMAIL:** <a href="mailto:&#109;&#115;&#115;&#064;&#115;&#097;&#116;&#116;&#108;&#101;&#114;&#115;&#046;&#111;&#114;&#103;">&#109;&#115;&#115;&#064;&#115;&#097;&#116;&#116;&#108;&#101;&#114;&#115;&#046;&#111;&#114;&#103;</a>
+**NON-DISCLOSURES AND ENCUMBERED WRITING:** Much of what I'm paid to write becomes proprietary information as soon as it leaves my hands (and is therefore unavailable for sharing here). What follows are NDA-unencumbered exceptions, a real-world "portfolio" of sorts.
 
 ## Topics hidden by NDA
 
