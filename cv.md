@@ -1,7 +1,7 @@
 | Michael “Mickey” Sattler |
 | :---: |
 | Team Lead &diams; Technical Writer &diams; Software & Quality Assurance Engineer |
-| [mss@sattlers.org](mailto:mss@sattlers.org) &diams; [linkedin.com/in/mickeysattler](https://linkedin.com/in/mickeysattler) &diams; [github.com/mickeys](https://github.com/mickeys) &diams; [+1.415.867.5353](tel:+14158675353) |
+| <a href="mailto:&#109;&#115;&#115;&#064;&#115;&#097;&#116;&#116;&#108;&#101;&#114;&#115;&#046;&#111;&#114;&#103;">&#109;&#115;&#115;&#064;&#115;&#097;&#116;&#116;&#108;&#101;&#114;&#115;&#046;&#111;&#114;&#103;</a> &diams; [linkedin.com/in/mickeysattler](https://linkedin.com/in/mickeysattler) &diams; [github.com/mickeys](https://github.com/mickeys) &diams; [+1.415.867.5353](tel://+14158675353) |
 
 &nbsp;
 
