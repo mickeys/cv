@@ -170,4 +170,4 @@ I spun off (and led) our worldwide fraud detection department, building tools, a
 </table>
 
 &diams; ADDITIONAL WORK ROLES — [linkedIn.com/in/mickeysattler](https://linkedIn.com/in/mickeysattler)<br>
-&diams; MY WRITING PORTFOLIO — [../wp/README.md)
+&diams; MY WRITING PORTFOLIO — [github.com/mickeys/cv/wp/](../wp/README.md)
