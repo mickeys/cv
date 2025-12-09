@@ -14,4 +14,4 @@ I'm a long-time software and quality assurance engineer who's had primary respon
 
 &diams; My [exhaustive](https://www.linkedin.com/in/mickeysattler/) _curriculum vitae_
 
-&diams; My [technical writing portfolio](./wp/)
+&diams; My [technical writing portfolio](https://github.com/mickeys/cv/blob/main/wp/README.md)
