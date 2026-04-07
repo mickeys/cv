@@ -1,7 +1,7 @@
 # Michael “Mickey” Sattler
 **Strategic Technical Writer | Content Architect | QA Engineer**
 
-<a href="mailto:&#109;&#115;&#115;&#064;&#115;&#097;&#116;&#116;&#108;&#101;&#114;&#115;&#046;&#111;&#114;&#103;">&#109;&#115;&#115;&#064;&#115;&#097;&#116;&#116;&#108;&#101;&#114;&#115;&#046;&#111;&#114;&#103;</a> | +1.415.867.5353 | [github.com/mickeys/cv/wp/](https:github.com/mickeys/cv/wp/) | [linkedIn.com/in/mickeysattler](https://linkedIn.com/in/mickeysattler)
+<a href="mailto:&#109;&#115;&#115;&#064;&#115;&#097;&#116;&#116;&#108;&#101;&#114;&#115;&#046;&#111;&#114;&#103;">&#109;&#115;&#115;&#064;&#115;&#097;&#116;&#116;&#108;&#101;&#114;&#115;&#046;&#111;&#114;&#103;</a> | +1.415.867.5353 | [github.com/mickeys](https:github.com/mickeys/) | [linkedIn.com/in/mickeysattler](https://linkedIn.com/in/mickeysattler)
 
 ## Professional Summary
 Strategic Technical Writer and Content Architect with over 20 years of experience bridging the gap between complex engineering and developer success. Expert in Docs-as-Code workflows for Blockchain, AI, and Fintech. I specialize in building scalable documentation ecosystems that reduce "Time-to-First-Call" for developers and drive product adoption through persona-driven storytelling and high-navigation information architecture.
@@ -86,5 +86,5 @@ Strategic Technical Writer and Content Architect with over 20 years of experienc
 
 ## Projects & Portfolio
 * **Residential Renovation (2025):** Managed a modernization plan for a 1930s cottage, balancing utility upgrades with architectural period preservation.
-* **Writing Portfolio:** [github.com/mickeys/cv/wp/](https:github.com/mickeys/cv/wp/)
+* **Writing Portfolio:** [github.com/mickeys/cv/wp/](https://github.com/mickeys/cv/tree/main/wp)
 * **LinkedIn CV:** [linkedIn.com/in/mickeysattler](https://linkedIn.com/in/mickeysattler)
