@@ -7,9 +7,9 @@
 Strategic Technical Writer and Content Architect with over 20 years of experience bridging the gap between complex engineering and developer success. Expert in Docs-as-Code workflows for Blockchain, AI, and Fintech. I specialize in building scalable documentation ecosystems that reduce "Time-to-First-Call" for developers and drive product adoption through persona-driven storytelling and high-navigation information architecture.
 
 ## Core Accomplishments
-* **Docs-as-Code Leadership:** Spearheaded the end-to-end documentation strategy for the Midnight blockchain spinoff, moving from stealth to public developer onboarding using Git-based workflows.
-* **AI Enablement:** Authored mission-critical onboarding frameworks for internal GenAI/RAG stacks at Walmart Global Tech, accelerating AI tool adoption for 500+ engineers.
-* **Operational Impact:** Replaced manual business processes at Credit Karma with automated engines, reducing offshore QE overhead by 30% and increasing release velocity.
+* **Docs-as-Code Leadership:** Spearheaded the end-to-end documentation strategy for the Midnight blockchain, moving from stealth to public developer onboarding using Git-based workflows.
+* **AI Enablement:** Authored mission-critical onboarding frameworks for internal GenAI/RAG stacks at Walmart Global Tech, paving the way for AI toolchain deployment for 500+ engineers.
+* **Operational Impact:** Replaced manual business processes at Credit Karma with automated software processes, reducing offshore QE overhead by 30% and increasing release velocity.
 * **Resilient Communication:** 20+ years of Incident Command System (ICS) experience, applying crisis-intervention clarity to complex technical documentation and high-stakes product launches.
 
 ## Technical Skills
@@ -18,50 +18,38 @@ Strategic Technical Writer and Content Architect with over 20 years of experienc
 * **Engineering & QA:** Agile SDLC, SQL, Java, Ruby RSpec, Docker, CircleCI, Automated Testing, CI/CD.
 * **Expertise:** Generative AI (RAG), Blockchain/Web3, Cryptography, Biometrics, Incident Command (ICS).
 
-## Professional Experience
-
-### Black Rock Ranger | Burning Man, LLC
+## Work/Professional Experience
+### Black Rock Ranger - Crisis Communication & Conflict Resolution | Burning Man, LLC
 **August 1996 - present**
 
 * Law Enforcement Agency Liaison (LEAL), psychiatric emergency shift lead & on-scene crisis intervention, vehicle patrol and interception, eviction team, and other incident command (ICS) roles.
 * Emergency Services Department medic (EMT) and radio dispatcher. 
 
 ### Technical Writer (Contract) | eBay
-**October 2025 – December 2025**
+**October 2025 – January 2026**
 
-* **Docs-as-Code Implementation:** Engineered a high-velocity documentation sprint to build out a technical knowledge base for internal management and engineering teams.
-* **Modern Toolchain Management:** Stored and versioned all technical content in a GitHub repository, utilizing a professional Git workflow to manage contributions.
-* **Automated Publishing:** Configured and maintained a static site deployment pipeline using Jekyll, publishing seamless documentation via GitHub Pages.
-
-### Senior Technical Writer (Contract) | Walmart Global Tech
-**August 2023 – Present**
-
-* **AI Documentation:** Authored internal onboarding guides for Generative AI and Retrieval-Augmented Generation (RAG) stacks, significantly accelerating AI tool adoption across engineering teams.
-* **Technical Visualization:** Translated abstract system architectures into engineering-level white papers and detailed topology diagrams in Confluence.
-
-### Senior Technical Writer (Contract) | NFT-TiX
-**November 2022 – August 2023**
-
-* **Developer Experience:** Designed the initial customer experience walkthrough for a blockchain-based ticketing system, decreasing initial support inquiries by an estimated 20%.
+* Engineered a high-velocity Docs-as-Code sprint to build out a technical knowledge base for internal management and engineering teams.
+* Implemented a comprehensive Git workflow for technical documentation management that enhanced contribution tracking, enabling a 25% faster review process, and ensuring consistent updates across 200+ files within the repository.
+* Configured and maintained a static site deployment pipeline using Docusaurus, publishing seamless documentation via GitHub Pages.
 
 ### Staff Technical Writer & Team Lead | Midnight / IOHK
 **April 2024 – May 2025**
 
 * **Strategic Content Leadership:** Directed the documentation strategy for the Midnight blockchain spinoff, architecting API references and "Hello, World" DApp onboarding workflows.
 * **Integrated Lifecycle:** Implemented a Docs-as-Code workflow within the Agile SDLC, ensuring documentation parity and technical accuracy at every release gate.
-* **Information Architecture:** Designed a high-navigation topic taxonomy using Docusaurus to reduce developer friction and time-to-onboard.
+* **Information Architecture:** Curated a high-navigation topic taxonomy using Docusaurus to reduce developer friction and time-to-onboard.
 * **Cross-Functional Collaboration:** Partnered with DevRel and Engineering to translate complex SME knowledge into actionable developer commands and interactive tutorials.
 
 ### Senior Technical Writer (Contract) | Walmart Global Tech
-**August 2023 – Present**
+**August 2023 – April 2024**
 
-* **AI Documentation:** Authored internal onboarding guides for Generative AI and Retrieval-Augmented Generation (RAG) stacks, significantly accelerating AI tool adoption across engineering teams.
+* **AI Documentation:** Authored internal onboarding guides for Generative AI and Retrieval-Augmented Generation (RAG) stacks, significantly increasing AI tool use across engineering teams.
 * **Technical Visualization:** Translated abstract system architectures into engineering-level white papers and detailed topology diagrams in Confluence.
 
 ### Senior Technical Writer (Contract) | NFT-TiX
 **November 2022 – August 2023**
 
-* **Developer Experience:** Designed the initial customer experience walkthrough for a blockchain-based ticketing system, decreasing initial support inquiries by an estimated 20%.
+* **Developer Experience:** Engineered the initial customer experience walkthrough for a blockchain-based ticketing system, decreasing initial support inquiries by an estimated 20%.
 
 ### Senior QA Engineer | Credit Karma
 **December 2018 – January 2020**
@@ -77,6 +65,7 @@ Strategic Technical Writer and Content Architect with over 20 years of experienc
 ---
 
 ## Earlier Career History
+* **Technical Writer / Subject Matter Expert** | Udacity
 * **Hardware & Software QA Engineer** | Credence ID
 * **Quality Engineering Lead** | Zipcar
 * **Quality Assurance Manager** | Splunk
