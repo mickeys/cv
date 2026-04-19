@@ -1,15 +1,16 @@
 # Michael “Mickey” Sattler
-**Strategic Technical Writer | Content Architect | QA Engineer**
+**Strategic Technical Writer | Content Architect | QA Engineer | Software Engineer**
 
 <a href="mailto:&#109;&#115;&#115;&#064;&#115;&#097;&#116;&#116;&#108;&#101;&#114;&#115;&#046;&#111;&#114;&#103;">&#109;&#115;&#115;&#064;&#115;&#097;&#116;&#116;&#108;&#101;&#114;&#115;&#046;&#111;&#114;&#103;</a> | +1.415.867.5353 | [github.com/mickeys](https:github.com/mickeys/) | [linkedIn.com/in/mickeysattler](https://linkedIn.com/in/mickeysattler)
 
 ## Professional Summary
-Strategic Technical Writer and Content Architect with over 20 years of experience bridging the gap between complex engineering and developer success. Expert in Docs-as-Code workflows for Blockchain, AI, and Fintech. I specialize in building scalable documentation ecosystems that reduce "Time-to-First-Call" for developers and drive product adoption through persona-driven storytelling and high-navigation information architecture.
+
+20+ years experience in Strategic Technical Writing and Content Architecture, Software Quality Assurance and Engineering, expert in creating documentation, making complex software understandable, and increasing developer success and audience onboarding. Working in the domains of Fintech, AI, Blockchain, and software API and usage, I specialize in building scalable documentation ecosystems that reduce "Time-to-First-Call" for developers and drive product adoption through persona-driven storytelling and high-navigation information architecture.
 
 ## Core Accomplishments
-* **Docs-as-Code Leadership:** Spearheaded the end-to-end documentation strategy for the Midnight blockchain, moving from stealth to public developer onboarding using Git-based workflows.
+* **Docs-as-Code Leadership:** Spearheaded the end-to-end documentation strategy for the Midnight blockchain, moving from stealth to public developer stages, using Git-based workflows leveraging native developer SME workflow.
 * **AI Enablement:** Authored mission-critical onboarding frameworks for internal GenAI/RAG stacks at Walmart Global Tech, paving the way for AI toolchain deployment for 500+ engineers.
-* **Operational Impact:** Replaced manual business processes at Credit Karma with automated software processes, reducing offshore QE overhead by 30% and increasing release velocity.
+* **Operational Impact:** Replaced manual business processes at Credit Karma with automated intelligent software processes, reducing offshore QE overhead by 30% and increasing release velocity. Did similar for validation of non-US credit cards.
 * **Resilient Communication:** 20+ years of Incident Command System (ICS) experience, applying crisis-intervention clarity to complex technical documentation and high-stakes product launches.
 
 ## Technical Skills
